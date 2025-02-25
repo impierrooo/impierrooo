@@ -22,3 +22,5 @@
 
 ### 🔥 Mes statistiques GitHub
 ![Les stats GitHub](https://github-readme-stats.vercel.app/api?username=impierrooo&show_icons=true&theme=dark)
+![Les stats GitHub](https://github-readme-stats.vercel.app/api?username=impierrooo&show_icons=true&count_private=true)
+
