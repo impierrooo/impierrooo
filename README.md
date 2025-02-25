@@ -10,6 +10,3 @@
 
 ### 🔥 Mes statistiques GitHub :
 ![Les stats GitHub](https://github-readme-stats.vercel.app/api?username=impierrooo&show_icons=true&theme=dark)
-
-### 🏆 Mes badges :
-[![GitHub Streak](https://streak-stats.demolab.com?user=impierrooo&theme=dark)](https://git.io/streak-stats)
