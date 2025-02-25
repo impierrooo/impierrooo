@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Impierrooo !
 
-### 🛠️ Technologies & Outils  
+### 🚀 Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
