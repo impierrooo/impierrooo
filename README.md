@@ -20,5 +20,5 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
-### 🔥 Mes statistiques GitHub :
+### 🔥 Mes statistiques GitHub
 ![Les stats GitHub](https://github-readme-stats.vercel.app/api?username=impierrooo&show_icons=true&theme=dark)
