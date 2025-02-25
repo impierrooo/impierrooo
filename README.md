@@ -21,6 +21,4 @@
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 ### 🔥 Mes statistiques GitHub
-![Les stats GitHub](https://github-readme-stats.vercel.app/api?username=impierrooo&show_icons=true&theme=dark)
-![Les stats GitHub](https://github-readme-stats.vercel.app/api?username=impierrooo&show_icons=true&count_private=true)
-
+![Les stats GitHub](https://github-readme-stats.vercel.app/api?username=impierrooo&show_icons=true&theme=dark&count_private=true)
