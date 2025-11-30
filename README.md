@@ -43,5 +43,5 @@ Passionné par les architectures robustes, je me spécialise dans la conception 
 
 ---
 
-### 🔥 Mes statistiques GitHub
-![Les stats GitHub](https://github-readme-stats.vercel.app/api?username=impierrooo&show_icons=true&theme=dark)
+### 🔥 Mon activité
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=impierrooo&theme=dark&hide_border=true)
