@@ -6,7 +6,9 @@ Développeur full-stack en alternance. Je fais du PHP, du Python et du TypeScrip
 
 ## En alternance
 
-Je développe le backend de NSICA, l'ERP du groupe d'écoles Adonis. C'est une API REST en PHP qui gère des établissements scolaires. Je vais du ticket Jira à la merge request, conception, code, tests et relecture.
+Je travaille surtout sur NSICA, un ERP pour établissements d'enseignement. Il équipe les écoles du groupe Adonis comme des écoles externes. J'y touche au front comme au back, une API REST en PHP et une interface React. Je vais du ticket Jira à la merge request, conception, code, tests et relecture.
+
+Chez Adonis, je développe aussi de mon côté, surtout des automatisations. Mais NSICA prend le plus clair de mon temps.
 
 J'encadre aussi des stagiaires et je relis leur travail au quotidien. Je porte une part de gestion de projet et j'avance avec beaucoup d'autonomie. Pour la suite, j'ai autant envie de faire avancer un projet et une équipe que d'écrire du code.
 
