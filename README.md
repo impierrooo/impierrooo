@@ -1,47 +1,44 @@
-# 👋 Hello, I'm Impierrooo !
+# Pierre Montaret
 
-### 👨‍💻 Alternant Développeur Backend Java / Spring Boot
-
-Passionné par les architectures robustes, je me spécialise dans la conception d'**API sécurisées et testées** pour le secteur de la **Banque et de la Finance**.
+Développeur full-stack en alternance. Je fais du PHP, du Python et du TypeScript, et je passe du serveur à l'interface sans me cantonner à une case. L'IA a élargi ce que je peux construire seul. La finance et la sécurité reviennent dans presque tout ce que je touche.
 
 ---
 
-### ☕ Backend & Architecture (Mon cœur de métier)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+## En alternance
 
-### 🛡️ Qualité & Tests (TDD / CI)
-![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-788BD2?style=for-the-badge&logo=mockito&logoColor=white)
+Je développe le backend d'un ERP pour l'éducation, une API REST en PHP qui gère des établissements scolaires. Je vais du ticket Jira à la merge request, conception, code, tests et relecture.
 
-### 🗄️ Data & Base de données
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🚀 DevOps & Outils
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+J'encadre aussi des stagiaires et je relis leur travail au quotidien. Je porte une part de gestion de projet et j'avance avec beaucoup d'autonomie. Pour la suite, j'ai autant envie de faire avancer un projet et une équipe que d'écrire du code.
 
 ---
 
-### 💻 Autres Langages & Stack Web
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+## Mes projets perso
 
-### 📅 Gestion & Design
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+Ils sont privés. Je peux en parler, pas encore montrer le code.
+
+**Dora** - une chaîne d'agents que j'ai bâtie au-dessus de Claude Code. Elle prend un ticket en charge de bout en bout. Elle part d'un ticket Jira ou d'une demande brute reçue sur Discord ou par mail, et va jusqu'à la merge request prête à relire. Quand il le faut, elle enquête sur les serveurs, lit la base et les fichiers pour comprendre un bug avant de le corriger. Un orchestrateur répartit le travail entre des sous-agents spécialisés, un pour trouver le bon dépôt, un pour développer, d'autres pour tout vérifier avant le push. Un mode question affine le plan avec moi avant la première ligne de code. Des garde-fous par hooks bloquent ce qui ne passe pas les contrôles. Elle tourne pour deux organisations sans que j'aie à reprendre la main.
+
+**Financial** - un cockpit patrimonial avec un journal de trading analysé par IA. Multi-devises, simulateur fiscal, un LLM qui coache mes trades. FastAPI et SQLAlchemy derrière, React et TypeScript devant, Docker autour. Auth Argon2id et une CI qui bloque le code non typé ou vulnérable. Le projet où je soigne le plus la sécurité.
+
+**Bot-trading** - un moteur qui cherche des stratégies crypto, construit pour ne pas me mentir. Il teste sur 686 000 bougies, compte les vrais coûts, frais, slippage et funding, et valide chaque résultat au bootstrap. La stratégie retenue bat son univers de référence sur près de neuf ans, avec le plus faible drawdown de tout ce que j'ai testé. Rien n'est laissé à l'intuition.
+
+**Setup-wsl** - mon poste de dev tient dans un dépôt. Un script Bash idempotent réinstalle tout d'un coup, paquets, git, SSH, secrets chiffrés, que la machine soit neuve ou vieille de trois semaines. C'est aussi lui qui déploie Dora et toute sa configuration. Pas glamour, mais je ne refais plus jamais ça à la main.
 
 ---
 
-### 🔥 Mon activité
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=impierrooo&theme=dark&hide_border=true)
+## Ma stack
+
+| Domaine | Outils |
+| --- | --- |
+| Backend | PHP (Laravel, Slim), Python (FastAPI), Node.js |
+| Frontend | React, TypeScript, JavaScript |
+| Données | PostgreSQL, SQLite |
+| Infra & CI | Docker, Linux, Git, GitLab CI, GitHub Actions |
+| Qualité | Pest, PHPStan, pytest, ruff, mypy |
+
+---
+
+## Me contacter
+
+- [LinkedIn](https://www.linkedin.com/in/pierre-montaret)
+- [pierre.montaret@gmail.com](mailto:pierre.montaret@gmail.com)
